@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "535581126744",
+    "project_id": "fir-notification-a9f76",
+    "storage_bucket": "fir-notification-a9f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535581126744:android:76a485a2a88d6f8add9a2d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535581126744-4iqoj1e17qgr4v44ru2pj91bva7mtbg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFY5fTD0j0eaXqHDCfb7ua6Z2qov-J1Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535581126744-4iqoj1e17qgr4v44ru2pj91bva7mtbg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535581126744-154n3s0ptdupqjlb7annh8r8evqg1ur2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasepushnotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535581126744:android:78248437d2f46bd8dd9a2d",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535581126744-4iqoj1e17qgr4v44ru2pj91bva7mtbg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFY5fTD0j0eaXqHDCfb7ua6Z2qov-J1Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535581126744-4iqoj1e17qgr4v44ru2pj91bva7mtbg6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535581126744-154n3s0ptdupqjlb7annh8r8evqg1ur2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasepushnotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
